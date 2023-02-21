@@ -1,1 +1,1 @@
-import './new.js';
+import './js/new.js';
